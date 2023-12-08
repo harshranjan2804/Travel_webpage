@@ -1,0 +1,29 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ff7f50;
+  padding: 15px 32px;
+  background-image: url('BeachSunset.jpg');
+}
+h1 {
+  color: black;
+  font-size: 5rem;
+  text-decoration: underline;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  float: left;
+  margin: 2rem;
+  font-size: 1.5rem;
+}
+a {
+  color: aqua;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
